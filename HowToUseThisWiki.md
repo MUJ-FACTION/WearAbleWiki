@@ -3,12 +3,11 @@
 I am glad you asked, meow.
 To start with, here are the links:
 
-[Github](https://github.com/MUJ-FACTION/WearAbleWiki)
-[Wiki](https://arnavpraneet.github.io/WearAbleWiki)
+[Github](https://github.com/MUJ-FACTION/WearAbleWiki) and [Wiki](https://arnavpraneet.github.io/WearAbleWiki)
 
 To get started
 ```sh
-git pull https://github.com/MUJ-FACTION/WearAbleWiki
+git clone https://github.com/MUJ-FACTION/WearAbleWiki
 ```
 
 Now, this wiki works on a simple MarkDown format, simply add a new document with the extension ".md" and you can document as you wish!
