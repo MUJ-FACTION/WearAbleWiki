@@ -3,8 +3,7 @@
 I am glad you asked, meow.
 To start with, here are the links:
 
-[Github](https://github.com/MUJ-FACTION/WearAbleWiki)
-[Wiki](https://arnavpraneet.github.io/WearAbleWiki)
+[Github](https://github.com/MUJ-FACTION/WearAbleWiki) and [Wiki](https://arnavpraneet.github.io/WearAbleWiki)
 
 To get started
 ```sh
